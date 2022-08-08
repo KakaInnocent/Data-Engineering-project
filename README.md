@@ -4,4 +4,4 @@ We'll start weekly sessions;
 </br>
 | Week | Topic | Description |
 | :--- | :---: | ---: |
-| Week 1| Introcuction | A intro into Data Engineering |
+| Week 1 | Introcuction | An intro into Data Engineering |
