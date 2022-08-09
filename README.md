@@ -4,4 +4,4 @@ We'll start weekly sessions;
 </br>
 | Week | Topic | Description |
 | :--- | :---: | ---: |
-| Week 1 | Introcuction | An intro into Data Engineering |
+| (Week 1)[https://github.com/KakaInnocent/Data-Engineering-project/tree/main/Week_1] | Introcuction | An intro into Data Engineering |
